@@ -28,6 +28,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@eslint/js", "npm:9.12.0"],\
+          ["@eslint/plugin-kit", "npm:0.2.0"],\
           ["@types/eslint-config-prettier", "npm:6.11.3"],\
           ["@types/eslint__js", "npm:8.42.3"],\
           ["eslint", "virtual:04343bbcf3864a4d9f836f4be41d6167010ec6ee326314171636687b28b08dc655589f5873c2f1a2c4a03dd1613f2d4e2962ed8e359e34abc66b933aaa747243#npm:9.12.0"],\
@@ -2064,6 +2065,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["node-template", "workspace:."],\
           ["@eslint/js", "npm:9.12.0"],\
+          ["@eslint/plugin-kit", "npm:0.2.0"],\
           ["@types/eslint-config-prettier", "npm:6.11.3"],\
           ["@types/eslint__js", "npm:8.42.3"],\
           ["eslint", "virtual:04343bbcf3864a4d9f836f4be41d6167010ec6ee326314171636687b28b08dc655589f5873c2f1a2c4a03dd1613f2d4e2962ed8e359e34abc66b933aaa747243#npm:9.12.0"],\

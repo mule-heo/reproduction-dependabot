@@ -240,7 +240,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/plugin-kit@npm:^0.2.0":
+"@eslint/plugin-kit@npm:0.2.0, @eslint/plugin-kit@npm:^0.2.0":
   version: 0.2.0
   resolution: "@eslint/plugin-kit@npm:0.2.0"
   dependencies:
@@ -1695,6 +1695,7 @@ __metadata:
   resolution: "node-template@workspace:."
   dependencies:
     "@eslint/js": "npm:^9.12.0"
+    "@eslint/plugin-kit": "npm:0.2.0"
     "@types/eslint-config-prettier": "npm:^6.11.3"
     "@types/eslint__js": "npm:^8.42.3"
     eslint: "npm:^9.12.0"
